@@ -1,3 +1,8 @@
+
+![Javiera López — Data Analytics, Product Thinking & Business Insights](github-banner.png)
+
+---
+
 [README.md](https://github.com/user-attachments/files/33405844/README.md)
 # Hi, I'm Javiera 👋
 
